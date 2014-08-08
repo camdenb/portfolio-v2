@@ -8,8 +8,8 @@ body, html {
 body {
 	overflow: scroll;
 	font-family: 'Raleway', sans-serif;
-	background-color: #E9FFFF;
-	background-image: url('../imgs/cardboard-flat.png')
+	background-color: #EFEFEF;
+	background-image: url('../imgs/cardbsoard-flat.png')
 }
 
 a {
@@ -25,6 +25,7 @@ a:focus {
 	display: block;
 	text-align: center;
 	margin-top: 50px;
+	margin-bottom: 10px;
 }
 
 .header-title {
@@ -106,7 +107,6 @@ ul {
 
 .content {
 	width: auto;
-	height: 500px;
 	margin: 20px;
 }
 
@@ -132,14 +132,22 @@ ul {
 
 #work-camdenbickel {
 	background-image: url('../imgs/icons/ico-monitor.png');
+	background-color: #A8D1F7;
 }
 
 #work-pixelparty {
 	background-image: url('../imgs/icons/ico-controller.png');
+	background-color: #F7C0A8;
 }
 
 #work-github {
 	background-image: url('../imgs/icons/ico-github.png');
+	background-color: #A8F7CE;
+}
+
+#work-other {
+	background-image: url('../imgs/icons/ico-github.png');
+	background-color: #F7EEA8;
 }
 
 .grid {

@@ -36,12 +36,12 @@
 		</div>
 	</div>
 	<div class='unit w-1-2'>
-		<div class='work-icon' id='work-camdenbickel'>
+		<div class='work-icon' id='work-other'>
 			<a href='#' target='_blank'>
 				<div class='overlay'>
 					<div class='wrap-work'>
-						<span class='caption-title'>camdenbickel.com</span>
-						<span class='caption-desc'>built from scratch using HTML5, CSS3, jQuery, and gridism.css.</span>
+						<span class='caption-title'>I need something to put here...</span>
+						<span class='caption-desc'>;)</span>
 					</div>
 				</div>
 			</a>
