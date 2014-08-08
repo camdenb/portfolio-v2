@@ -1,37 +1,74 @@
 <div class='grid'>
-	<div class='unit w-1-3'>
-		<div class='work-icon'>
-			<img src='http://www.placehold.it/100x100/0000FF'>
-		</div>
-	</div>
-	<div class='unit w-2-3'>
-		<div class='work-icon'>
-			<img src='http://www.placehold.it/100x100/aa1100'>
-		</div>
-	</div>
-	<div class='unit w-1-4'>
-		<div class='work-icon'>
-			<img src='http://www.placehold.it/100x100/aabb00'>
+	<div class='unit w-1-2'>
+		<div class='work-icon' id='work-camdenbickel'>
+			<a href='#' target='_blank'>
+				<div class='overlay'>
+					<div class='wrap-work'>
+						<span class='caption-title'>camdenbickel.com</span>
+						<span class='caption-desc'>built from scratch using HTML5, CSS3, jQuery, and gridism.css</span>
+					</div>
+				</div>
+			</a>
 		</div>
 	</div>
 	<div class='unit w-1-2'>
-		<div class='work-icon'>
-			<img src='http://www.placehold.it/100x100/fdab12'>
+		<div class='work-icon' id='work-pixelparty'>
+			<a href='http://bearsoap.itch.io/pixel-party' target='_blank'>
+				<div class='overlay'>
+					<div class='wrap-work'>
+						<span class='caption-title'>pixel party</span>
+						<span class='caption-desc'>HTML5 game built with the Phaser.js framework</span>
+					</div>
+				</div>
+			</a>
 		</div>
 	</div>
-	<div class='unit w-1-4'>
-		<div class='work-icon'>
-			<img src='http://www.placehold.it/100x100/ab11fd'>
+	<div class='unit w-1-2'>
+		<div class='work-icon' id='work-github'>
+			<a href='http://github.com/camdenb' target='_blank'>
+				<div class='overlay'>
+					<div class='wrap-work'>
+						<span class='caption-title'>my github profile</span>
+						<span class='caption-desc'>yay, open-source!</span>
+					</div>
+				</div>
+			</a>
 		</div>
 	</div>
-	<div class='unit w-2-3'>
-		<div class='work-icon'>
-			<img src='http://www.placehold.it/100x100/22ab10'>
+	<div class='unit w-1-2'>
+		<div class='work-icon' id='work-camdenbickel'>
+			<a href='#' target='_blank'>
+				<div class='overlay'>
+					<div class='wrap-work'>
+						<span class='caption-title'>camdenbickel.com</span>
+						<span class='caption-desc'>built from scratch using HTML5, CSS3, jQuery, and gridism.css.</span>
+					</div>
+				</div>
+			</a>
 		</div>
 	</div>
-	<div class='unit w-1-3'>
-		<div class='work-icon'>
-			<img src='http://www.placehold.it/100x100/00bbbb'>
+	<div class='unit w-1-2' hidden>
+		<div class='work-icon' id='work-camdenbickel'>
+			<a href='#' target='_blank'>
+				<div class='overlay'>
+					<div class='wrap-work'>
+						<span class='caption-title'>camdenbickel.com</span>
+						<span class='caption-desc'>built from scratch using HTML5, CSS3, jQuery, and gridism.css.</span>
+					</div>
+				</div>
+			</a>
+		</div>
+	</div>
+	<div class='unit w-1-2' hidden>
+		<div class='work-icon' id='work-camdenbickel'>
+			<a href='#' target='_blank'>
+				<div class='overlay'>
+					<div class='wrap-work'>
+						<span class='caption-title'>camdenbickel.com</span>
+						<span class='caption-desc'>built from scratch using HTML5, CSS3, jQuery, and gridism.css.</span>
+					</div>
+				</div>
+			</a>
 		</div>
 	</div>
 </div>

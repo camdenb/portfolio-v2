@@ -1,4 +1,3 @@
-<div class='line' hidden></div>
 <div class='nav-wrapper'>
 	<nav class='main-nav'>
 		<ul>
